@@ -21,8 +21,8 @@ p {
 }
 
 .navbar-default {
-    background-color: #C12026;
-    border-color: #C12026;
+    background-color: #66ffff;
+    border-color: #66ffff;
     padding: 20px;
 }
 
@@ -60,7 +60,7 @@ p {
 .dropdown-menu > li > a:focus {
     color: #262626;
     text-decoration: none;
-    background-color: #C12026;
+    background-color:  #66ffff;
     border-radius: 20px;
 }
 
@@ -288,7 +288,7 @@ p {
 #about_us h2 {
     text-align: center;
     font-family: 'IM Fell Great Primer', serif;
-    background-color: #EE1C25;
+    background-color: #66ffff;
     padding: 10px;
     width: 200px;
     margin: auto;
@@ -303,8 +303,8 @@ p {
     width: 200px;
     margin: auto;
     border-radius: 50px;
-    box-shadow: 0px 0px 5px 5px #EE1C25;
-    color: #EE1C25;
+    box-shadow: 0px 0px 5px 5px #66ffff;
+    color: #66ffff;
     transition: .6s;
 }
 
@@ -322,7 +322,7 @@ p {
 
 .A1-left h1 {
     font-family: 'IM Fell Great Primer', serif;
-    color: #C12026;
+    color: #66ffff;
     font-weight: bold;
 }
 
@@ -334,7 +334,7 @@ p {
 
 .A2-left h1 {
     font-family: 'IM Fell Great Primer', serif;
-    color: #C12026;
+    color: #66ffff;
     font-weight: bold;
 }
 
@@ -353,7 +353,7 @@ p {
 
 .A1-middle h1 {
     font-family: 'IM Fell Great Primer', serif;
-    color: #C12026;
+    color: #66ffff;
     font-weight: bold;
 }
 
@@ -366,7 +366,7 @@ p {
 
 .A1-middle h1 {
     font-family: 'IM Fell Great Primer', serif;
-    color: #C12026;
+    color: #66ffff;
     font-weight: bold;
 }
 
@@ -379,7 +379,7 @@ p {
 
 .A2-middle h1 {
     font-family: 'IM Fell Great Primer', serif;
-    color: #C12026;
+    color: #66ffff;
     font-weight: bold;
 }
 
@@ -398,7 +398,7 @@ p {
     padding: 10px 25px 10px 25px;
     border-radius: 20px;
     border: none;
-    background-color: #EE1C25;
+    background-color: #66ffff;
     color: #fff;
     font-family: 'IM Fell Great Primer', serif;
     transform: scale(1);
@@ -411,7 +411,7 @@ p {
     border-radius: 20px;
     border: none;
     background-color: #000;
-    color: #EE1C25;
+    color: #66ffff;
     font-family: 'IM Fell Great Primer', serif;
     transform: scale(1.1);
     transition: .6s;
@@ -429,7 +429,7 @@ p {
 #course-part h2 {
     text-align: center;
     font-family: 'IM Fell Great Primer', serif;
-    background-color: #EE1C25;
+    background-color: #66ffff;
     padding: 10px;
     width: 200px;
     margin: auto;
@@ -446,8 +446,8 @@ p {
     margin: auto;
     border-radius: 50px;
     font-size: 20px;
-    box-shadow: 0px 0px 5px 5px #EE1C25;
-    color: #EE1C25;
+    box-shadow: 0px 0px 5px 5px #66ffff;
+    color: #66ffff;
     transition: .6s;
 }
 
@@ -497,7 +497,7 @@ p {
     margin-top: 10px;
     font-size: 15px;
     letter-spacing: 5px;
-    color: #EE1C25;
+    color: #66ffff;
     text-align: center;
 }
 
@@ -508,7 +508,7 @@ p {
 
 .see-more007 {
     padding: 5px 20px 5px 20px;
-    background-color: #EE1C25;
+    background-color: #66ffff;
     border: none;
     border-radius: 20px;
     color: #fff;
@@ -523,7 +523,7 @@ p {
 .Course-reg07 {
     margin-top: 10px;
     padding: 5px 20px 5px 20px;
-    background-color: #EE1C25;
+    background-color: #66ffff;
     border: none;
     border-radius: 20px;
     color: #fff;
@@ -541,8 +541,8 @@ p {
     color: #fff;
     font-family: 'IM Fell Great Primer', serif;
     font-weight: bold;
-    box-shadow: 0px 0px 5px 5px #EE1C25;
-    color: #EE1C25;
+    box-shadow: 0px 0px 5px 5px #66ffff;
+    color: #66ffff;
     transition: .6s;
 }
 
@@ -558,7 +558,7 @@ p {
 #video-part h2 {
     text-align: center;
     font-family: 'IM Fell Great Primer', serif;
-    background-color: #EE1C25;
+    background-color: #66ffff;
     padding: 10px;
     width: 200px;
     margin: auto;
@@ -575,8 +575,8 @@ p {
     margin: auto;
     border-radius: 50px;
     font-size: 20px;
-    box-shadow: 0px 0px 5px 5px #EE1C25;
-    color: #EE1C25;
+    box-shadow: 0px 0px 5px 5px #66ffff;
+    color: #66ffff;
     transition: .6s;
 }
 
@@ -587,7 +587,7 @@ p {
 .video-info08 {
     margin-top: 50px;
     height: 480px;
-    border: 1px solid #EE1C25;
+    border: 1px solid #66ffff;
     padding: 10px;
     overflow: auto;
 }
@@ -633,7 +633,7 @@ p {
 
 .ques008-button {
     padding: 8px 25px 8px 25px;
-    background-color: #EE1C25;
+    background-color: #66ffff;
     border-radius: 20px;
     margin-top: 30px;
     border: none;
@@ -648,7 +648,7 @@ p {
     border-radius: 20px;
     margin-top: 30px;
     border: none;
-    color: #EE1C25;
+    color: #66ffff;
     transform: scale(1.1);
     transition: .6s;
 }
@@ -665,7 +665,7 @@ p {
 #latest004 h2 {
     text-align: center;
     font-family: 'IM Fell Great Primer', serif;
-    background-color: #EE1C25;
+    background-color: #66ffff;
     padding: 10px;
     width: 200px;
     margin: auto;
@@ -680,14 +680,14 @@ p {
     width: 200px;
     margin: auto;
     border-radius: 50px;
-    box-shadow: 0px 0px 5px 5px #EE1C25;
-    color: #EE1C25;
+    box-shadow: 0px 0px 5px 5px #66ffff;
+    color: #66ffff;
     transition: .6s;
 }
 
 .coursr-01 {
     text-align: center;
-    background-color: #EE1C25;
+    background-color: #66ffff;
     padding: 10px;
     border-radius: 20px;
     margin-top: 50px;
@@ -696,7 +696,7 @@ p {
 
 .coursr-01:hover {
     text-align: center;
-    background-color: #EE1C25;
+    background-color: #66ffff;
     padding: 10px;
     border-radius: 20px;
     margin-top: 50px;
@@ -744,7 +744,7 @@ p {
     background-color: white;
     border: none;
     border-radius: 20px;
-    color: #EE1C25;
+    color: #66ffff;
     font-family: 'IM Fell Great Primer', serif;
     font-weight: bold;
 }
@@ -770,7 +770,7 @@ p {
 #portfolio h2 {
     text-align: center;
     font-family: 'IM Fell Great Primer', serif;
-    background-color: #EE1C25;
+    background-color: #66ffff;
     padding: 7px;
     width: 200px;
     margin: auto;
@@ -785,8 +785,8 @@ p {
     width: 200px;
     margin: auto;
     border-radius: 50px;
-    box-shadow: 0px 0px 5px 5px #EE1C25;
-    color: #EE1C25;
+    box-shadow: 0px 0px 5px 5px #66ffff;
+    color: #66ffff;
     transition: .6s;
 }
 
@@ -797,7 +797,7 @@ p {
 .button {
     display: inline-block;
     padding: 0.5em 1.0em;
-    background: #EE1C25;
+    background: #66ffff;
     border: none;
     text-transform: uppercase;
     color: #fff;
@@ -937,7 +937,7 @@ p {
     padding: 10px 25px 10px 25px;
     background-color: #000;
     border: none;
-    color: #EE1C25;
+    color: #66ffff;
     font-family: 'IM Fell Great Primer', serif;
     font-size: 13px;
     border-radius: 20px;
@@ -971,7 +971,7 @@ p {
     height: 400px;
     width: 800px;
     border-radius: 20px;
-    border: 2px solid #EE1C25;
+    border: 2px solid #66ffff;
     transition: .6s;
 }
 
@@ -1006,12 +1006,12 @@ p {
 }
 
 .breadcrumb li a:hover {
-    color: #EE1C25;
+    color: #66ffff;
     text-decoration: none;
 }
 
 .deatils456-info h3 {
-    color: #EE1C25;
+    color: #66ffff;
     font-family: 'IM Fell Great Primer', serif;
 }
 
@@ -1022,7 +1022,7 @@ p {
 
 .reg-button6547 {
     padding: 10px 25px 10px 25px;
-    background-color: #EE1C25;
+    background-color: #66ffff;
     border: none;
     border-radius: 20px;
     color: white;
@@ -1036,7 +1036,7 @@ p {
     background-color: #000;
     border: none;
     border-radius: 20px;
-    color: #EE1C25;
+    color: #66ffff;
     font-weight: bold;
     transform: scale(1.1);
     transition: .6s;
@@ -1186,12 +1186,12 @@ p {
 
 .detailscor0048 h1 {
     font-size: 28px;
-    color: #EE1C25;
+    color: #66ffff;
     font-family: 'IM Fell Great Primer', serif;
 }
 
 .detailscor0048 h5 {
-    color: #EE1C25;
+    color: #66ffff;
     font-family: 'IM Fell Great Primer', serif;
 }
 
@@ -1217,7 +1217,7 @@ p {
 
 .course473-button:hover {
     padding: 7px 25px 7px 25px;
-    background-color: #EE1C25;
+    background-color: #66ffff;
     border: none;
     border-radius: 20px;
     color: white;
@@ -1314,7 +1314,7 @@ label {
     max-width: 100%;
     margin-bottom: 5px;
     font-weight: bold;
-    color: #EE1C25;
+    color: #66ffff;
 }
 
 
@@ -1326,7 +1326,7 @@ label {
 }
 
 .f-001 h3 {
-    color: #EE1C25;
+    color: #66ffff;
     font-family: 'IM Fell Great Primer', serif;
 }
 
@@ -1337,7 +1337,7 @@ label {
 }
 
 .f-001 a:hover {
-    color: #EE1C25;
+    color: #66ffff;
     font-family: 'IM Fell Great Primer', serif;
     text-decoration: none;
 }
@@ -1346,7 +1346,7 @@ label {
 /*f-002*/
 
 .f-002 h3 {
-    color: #EE1C25;
+    color: #66ffff;
     font-family: 'IM Fell Great Primer', serif;
 }
 
@@ -1357,7 +1357,7 @@ label {
 }
 
 .f-002 a:hover {
-    color: #EE1C25;
+    color: #66ffff;
     font-family: 'IM Fell Great Primer', serif;
     text-decoration: none;
 }
@@ -1366,7 +1366,7 @@ label {
 /*f-003*/
 
 .f-003 h3 {
-    color: #EE1C25;
+    color: #66ffff;
     font-family: 'IM Fell Great Primer', serif;
 }
 
@@ -1377,7 +1377,7 @@ label {
 }
 
 .f-003 a:hover {
-    color: #EE1C25;
+    color: #66ffff;
     font-family: 'IM Fell Great Primer', serif;
     text-decoration: none;
 }
@@ -1386,7 +1386,7 @@ label {
 /*f-004*/
 
 .f-004 h3 {
-    color: #EE1C25;
+    color: #66ffff;
     font-family: 'IM Fell Great Primer', serif;
 }
 
@@ -1397,13 +1397,13 @@ label {
 }
 
 .f-004 a:hover {
-    color: #EE1C25;
+    color: #66ffff;
     font-family: 'IM Fell Great Primer', serif;
     text-decoration: none;
 }
 
 #bootom-footer {
-    background-color: #EE1C25;
+    background-color: #66ffff;
     padding: 10px;
     text-align: center;
     font-family: 'IM Fell Great Primer', serif;
