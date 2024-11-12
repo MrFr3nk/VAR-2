@@ -252,26 +252,26 @@ p {
 /********************************/
 
 #first-slider .slide1 {
-    background-image: url(../image/schoolbackground.jpeg);
+    background-image: url(../image/students.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 600px;
 }
 
 #first-slider .slide2 {
-    background-image: url(../image/student2.jpg);
+    background-image: url(../image/computer.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #first-slider .slide3 {
-    background-image: url(../image/assembly.jpg);
+    background-image: url(../image/pencil-1486278_960_720.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #first-slider .slide4 {
-    background-image: url(../image/schoolbackground2.jpg);
+    background-image: url(../image/computer.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -309,7 +309,7 @@ p {
 }
 
 .A-banner-0 {
-    background-image: url(../image/schoolbackground.jpg);
+    background-image: url(../image/about-banner.jpg);
     padding: 50px;
     background-size: cover;
     margin-top: 50px;
