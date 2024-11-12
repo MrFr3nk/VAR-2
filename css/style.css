@@ -252,7 +252,7 @@ p {
 /********************************/
 
 #first-slider .slide1 {
-    background-image: url(../image/students1.jpeg);
+    background-image: url(../image/students1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 600px;
@@ -271,7 +271,7 @@ p {
 }
 
 #first-slider .slide4 {
-    background-image: url(../image/computer.jpg);
+    background-image: url(../image/students2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
