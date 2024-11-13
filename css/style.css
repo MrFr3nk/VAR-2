@@ -252,14 +252,14 @@ p {
 /********************************/
 
 #first-slider .slide1 {
-    background-image: url(../image/students1.jpg);
+    background-image: url(../image/assembly.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 600px;
 }
 
 #first-slider .slide2 {
-    background-image: url(../image/assembly.jpg);
+    background-image: url(../image/students1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
